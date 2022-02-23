@@ -23,3 +23,10 @@ h1{
     font-size: 60px;
     font-family: Yeseva One;
 }
+a{
+    text-decoration: none;
+    color: white;
+    background-color: crimson;
+    padding: 10px 40px;
+    border-radius: 5px;
+}

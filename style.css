@@ -30,3 +30,20 @@ a{
     padding: 10px 40px;
     border-radius: 5px;
 }
+.my-mission{
+    margin: 10px 50px;
+}
+.my-mission h2{
+    text-align: center;
+    font-size: 48px;
+}
+.mission{
+    margin-left: 20px;
+    padding: 40px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+.mission img{
+    width: 141px;
+    height: 141px;
+}

@@ -1,3 +1,25 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+.flexible-display{
+    display: flex;
+}
+.color-text{
+    color: orangered;
+}
+.half-width{
+    width: 50%;
+    margin-left: 30px;
+    margin-top: 140px;
+
+}
+.half-width img{
+    width: 50%;
+    margin-left: 70px;
+}
+
+h1{
+    font-size: 60px;
+    font-family: Yeseva One;
+}
